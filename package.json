@@ -6,7 +6,8 @@
   "scripts": {
     "build": "tsc",
     "start": "npm run serve",
-    "serve": "node dist/server.js"
+    "serve": "node dist/server.js",
+    "test": "echo \"No test specified\""
   },
   "author": "",
   "license": "ISC",
